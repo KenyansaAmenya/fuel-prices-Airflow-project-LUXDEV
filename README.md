@@ -47,4 +47,6 @@ The final output is clean gas price data stored in a PostgreSQL table with this 
 - Schema: nairobi
 - Table: gas_prices
 - Columns: id, fuel_type, price, currency, timestamp
+  ![2025-05-26 18 47 20](https://github.com/user-attachments/assets/92169c07-4089-4de9-adaa-d754ab5a4dc9)
+
 
